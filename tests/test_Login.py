@@ -2,6 +2,9 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+/*
+ multiple line comments added here
+ */
 
 //new comments added here
 def test_login_with_valid_credentials():
