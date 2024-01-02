@@ -2,12 +2,26 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+<<<<<<< .mine
 /*
  multiple line comments added here
  */
 //new comments added here again 2
+=======
+//branch one changes
+//branch one changes2
 
 
+
+>>>>>>> .theirs
+
+<<<<<<< .mine
+
+
+=======
+//new comments added here again 
+
+>>>>>>> .theirs
 def test_login_with_valid_credentials():
     driver=webdriver.Chrome()
     driver.maximize_window()
