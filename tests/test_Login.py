@@ -5,8 +5,9 @@ from selenium.webdriver.common.by import By
 /*
  multiple line comments added here
  */
+//new comments added here again 2
 
-//new comments added here
+
 def test_login_with_valid_credentials():
     driver=webdriver.Chrome()
     driver.maximize_window()
