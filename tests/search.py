@@ -3,7 +3,9 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-// new comments added here 1
+/*
+ *new comments added here 1
+ */
 
 def test_search_for_valid_products():
     driver=webdriver.Chrome()
