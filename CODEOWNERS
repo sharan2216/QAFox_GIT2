@@ -1,1 +1,10 @@
+#this is the list of owners
 
+* @Sharan-Lead11
+
+#What if i approve json file
+.js @Sharan-Lead11
+
+#Whau if i Target a specific Folder
+
+/docs/* @Sharan-Lead11
